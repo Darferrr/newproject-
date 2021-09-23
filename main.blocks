@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="mjxc^7ilBlTrE4qEPHE*" x="0" y="0"><statement name="HANDLER"><block type="mixer_loop_sound" id="RJyOI~Ebc!ND_GGPF]?s"><field name="sound">music.wawawawaa</field></block></statement></block></xml>
